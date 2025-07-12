@@ -1,0 +1,24 @@
+# Virtual environment folders
+venv/
+.venv/
+
+# Environment files
+.env
+
+__pycache__/
+git init
+__pycache__/
+
+*.py[cod]
+*.so
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Test/reporting caches
+.pytest_cache/
+.mypy_cache/
+
+# Logs
+*.log
